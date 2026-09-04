@@ -7,7 +7,7 @@ about:
   head: a74f90d
   archived: false
   latestVersion: v0.35.0
-  collectedAt: 2026-09-04T19:36:34Z
+  collectedAt: 2026-09-04T20:53:17Z
 timeline:
   created: 2020-06-06
   lastCommit: 2025-03-03
@@ -82,6 +82,44 @@ total:
   openIssue: 85
   commit: 451
 ---
+path: /home/runner/.x-repo/github.com/pkolaczk/fclones
+collectedAt: 2026-09-04T20:53:18Z
+loc:
+  Rust:
+    code: 9961
+    comments: 248
+    blanks: 1362
+    files: 27
+  Toml:
+    code: 104
+    comments: 1
+    blanks: 12
+    files: 4
+  Sh:
+    code: 35
+    comments: 10
+    blanks: 10
+    files: 3
+  Dockerfile:
+    code: 18
+    comments: 0
+    blanks: 0
+    files: 1
+  Yaml:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 447
+    blanks: 132
+    files: 1
+total:
+  code: 10174
+  comments: 1702
+  blanks: 1613
+  files: 37
 ---
 date: "2026-08-24"
 repo:
