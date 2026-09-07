@@ -5,13 +5,13 @@ about:
   head: a74f90d
   archived: false
   latestVersion: "v0.35.0"
-  collectedAt: 2026-09-07T04:46:22Z
+  collectedAt: 2026-09-07T19:39:11Z
 timeline:
   created: 2020-06-06
   lastCommit: 2025-03-03
   lastRelease: 2025-03-03
 popularity:
-  star: 2928
+  star: 2929
   watcher: 18
   fork: 124
   release: 57
@@ -81,7 +81,7 @@ total:
   commit: 451
 ---
 path: /home/runner/.x-repo/github.com/pkolaczk/fclones
-collectedAt: 2026-09-07T04:46:23Z
+collectedAt: 2026-09-07T19:39:12Z
 loc:
   Rust:
     code: 9961
@@ -207,7 +207,7 @@ checks:
       - 'Warn: 0 commits out of 26 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:46:24+00:00
+  collectedAt: 2026-09-07T19:39:12+00:00
   platform:
     darwin/arm64:
       name:  null
