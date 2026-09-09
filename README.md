@@ -7,7 +7,7 @@ Efficient Duplicate File Finder
 - **Latest release**: `v0.35.0` (2025-03-03)
 - **Last commit**: 2025-03-03
 - **License**: MIT
-- **Stars**: 2930 · **Forks**: 124 · **Open issues**: 192 · **Contributors**: 16
+- **Stars**: 2931 · **Forks**: 124 · **Open issues**: 192 · **Contributors**: 16
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/fclones> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:48:47Z._
+_Last regenerated: 2026-09-09T19:00:45Z._
