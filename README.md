@@ -1,24 +1,74 @@
 # fclones
 
+[中文版本](./README.cn.md)
+
 Efficient Duplicate File Finder
 
-- **Upstream**: <https://github.com/pkolaczk/fclones>
-- **Homepage**: <>
-- **Latest release**: `v0.35.0` (2025-03-03)
-- **Last commit**: 2025-03-03
-- **License**: MIT
-- **Stars**: 2931 · **Forks**: 124 · **Open issues**: 192 · **Contributors**: 16
+![fclones](https://repo.x-cmd.io/fclones.svg)
 
-## Installation
+## Install
 
 ```sh
 x install fclones
 ```
 
-See <https://x-cmd.com/install/fclones> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/pkolaczk/fclones>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:00:45Z._
+- **Latest**: `v0.35.0` (2025-03-03)
+- **Last commit**: 2025-03-03
+- **Assets in release**: 6
+- **Published**: 2025-03-03T09:52:10Z
+
+## Popularity
+
+- **Stars**: 2,931 · **Forks**: 124 · **Open issues**: 192 · **Contributors**: 16
+
+## Totals (cumulative)
+
+- **Releases**: 57 · **Merged PRs**: 118 · **Open PRs**: 17 · **Closed issues**: 107 · **Open issues**: 85 · **Commits**: 451
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 2 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 3 | 0 | 7 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 12 | 0 | 22 | 0 |
+
+## Code size
+
+Total: **10,135** lines of code across **36** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 9,961 | 248 | 1,362 | 27 |
+| Toml | 104 | 1 | 12 | 4 |
+| Sh | 35 | 10 | 10 | 3 |
+| Dockerfile | 18 | 0 | 0 | 1 |
+| Yaml | 17 | 0 | 0 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **2.1 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
+
+## Improve this data
+
+Install metadata for fclones lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fclones` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/fclones.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:46:00Z._
