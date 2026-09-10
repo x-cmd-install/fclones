@@ -4,7 +4,7 @@
 
 Efficient Duplicate File Finder
 
-![fclones](https://repo.x-cmd.io/fclones.svg)
+![fclones](https://repo.x-cmd.io/fclones.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,21 @@ x install fclones
 - **最新版本**: `v0.35.0` (2025-03-03)
 - **最近提交**: 2025-03-03
 - **Release 含资产**: 6 个
-- **发布时间**: 2025-03-03T09:52:10Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [fclones-0.35.0-2.x86_64.rpm](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-2.x86_64.rpm) | 1.9 MiB | `runtime/rpm/x86_64` |
+| [fclones-0.35.0-linux-glibc-x86_64.tar.gz](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-linux-glibc-x86_64.tar.gz) | 1.9 MiB | `native/linux/x64` |
+| [fclones-0.35.0-linux-musl-i686.tar.gz](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-linux-musl-i686.tar.gz) | 2.0 MiB | `native/linux/x86/musl` |
+| [fclones-0.35.0-linux-musl-x86_64.tar.gz](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-linux-musl-x86_64.tar.gz) | 2.1 MiB | `native/linux/x64/musl` |
+| [fclones-0.35.0-windows-x86_64.zip](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-windows-x86_64.zip) | 1.9 MiB | `native/win/x64` |
+| [fclones_0.35.0-1_amd64.deb](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones_0.35.0-1_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
 
 ## 流行度
 
-- **Star**: 2,931 · **Fork**: 124 · **开放 issue**: 192 · **贡献者**: 16
+- **Star**: 2,932 · **Fork**: 124 · **开放 issue**: 192 · **贡献者**: 16
 
 ## 累计统计
 
@@ -71,4 +81,4 @@ fclones 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:46:01Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:40:44Z._

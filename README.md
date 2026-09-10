@@ -22,11 +22,21 @@ x install fclones
 - **Latest**: `v0.35.0` (2025-03-03)
 - **Last commit**: 2025-03-03
 - **Assets in release**: 6
-- **Published**: 2025-03-03T09:52:10Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [fclones-0.35.0-2.x86_64.rpm](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-2.x86_64.rpm) | 1.9 MiB | `runtime/rpm/x86_64` |
+| [fclones-0.35.0-linux-glibc-x86_64.tar.gz](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-linux-glibc-x86_64.tar.gz) | 1.9 MiB | `native/linux/x64` |
+| [fclones-0.35.0-linux-musl-i686.tar.gz](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-linux-musl-i686.tar.gz) | 2.0 MiB | `native/linux/x86/musl` |
+| [fclones-0.35.0-linux-musl-x86_64.tar.gz](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-linux-musl-x86_64.tar.gz) | 2.1 MiB | `native/linux/x64/musl` |
+| [fclones-0.35.0-windows-x86_64.zip](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-windows-x86_64.zip) | 1.9 MiB | `native/win/x64` |
+| [fclones_0.35.0-1_amd64.deb](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones_0.35.0-1_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
 
 ## Popularity
 
-- **Stars**: 2,931 · **Forks**: 124 · **Open issues**: 192 · **Contributors**: 16
+- **Stars**: 2,932 · **Forks**: 124 · **Open issues**: 192 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -67,8 +77,8 @@ Lowest-scoring checks:
 Install metadata for fclones lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fclones` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/fclones.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/fclones.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:46:00Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:40:44Z._
