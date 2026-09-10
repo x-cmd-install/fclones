@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1965008,
       "digest": null,
-      "download_count": 108622,
+      "download_count": 108665,
       "created_at": "2025-03-03T10:04:50Z",
       "updated_at": "2025-03-03T10:04:51Z",
       "browser_download_url": "https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-linux-glibc-x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2156805,
       "digest": null,
-      "download_count": 2492,
+      "download_count": 2498,
       "created_at": "2025-03-03T10:04:51Z",
       "updated_at": "2025-03-03T10:04:52Z",
       "browser_download_url": "https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-linux-musl-x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1974285,
       "digest": null,
-      "download_count": 4033,
+      "download_count": 4036,
       "created_at": "2025-03-03T10:04:53Z",
       "updated_at": "2025-03-03T10:04:54Z",
       "browser_download_url": "https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-windows-x86_64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1449600,
       "digest": null,
-      "download_count": 1327,
+      "download_count": 1330,
       "created_at": "2025-03-03T10:04:47Z",
       "updated_at": "2025-03-03T10:04:49Z",
       "browser_download_url": "https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones_0.35.0-1_amd64.deb"
