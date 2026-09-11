@@ -1,3 +1,28 @@
+- repo: nix_stable_24_11
+  srcname: fclones
+  visiblename: fclones
+  version: 0.34.0
+  origversion: null
+  status: outdated
+  summary: Efficient Duplicate File Finder and Remover
+  maintainers:
+    - cyounkins@gmail.com
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: fclones
+  binname: fclones
+  visiblename: fclones
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Efficient duplicate file finder
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: fclones
@@ -71,19 +96,6 @@
   version: 0.34.0
   origversion: 0.34.0-r0
   status: outdated
-  summary: Efficient duplicate file finder
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: fclones
-  binname: fclones
-  visiblename: fclones
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
   summary: Efficient duplicate file finder
   maintainers:
     - michal@polanski.me
@@ -330,18 +342,6 @@
   licenses:
     - MIT
 - repo: nix_stable_24_05
-  srcname: fclones
-  visiblename: fclones
-  version: 0.34.0
-  origversion: null
-  status: outdated
-  summary: Efficient Duplicate File Finder and Remover
-  maintainers:
-    - cyounkins@gmail.com
-    - figsoda@pm.me
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
   srcname: fclones
   visiblename: fclones
   version: 0.34.0
