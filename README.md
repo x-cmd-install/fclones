@@ -4,7 +4,7 @@
 
 Efficient Duplicate File Finder
 
-![fclones](https://repo.x-cmd.io/fclones.svg)
+[![x-cmd/install — fclones Code Quality Monitoring Repo Card](https://repo.x-cmd.io/fclones.svg)](https://x-cmd.com/install/fclones)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,939 · **Forks**: 124 · **Open issues**: 192 · **Contributors**: 16
+- **Stars**: 2,943 · **Forks**: 124 · **Open issues**: 195 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 118 · **Open PRs**: 17 · **Closed issues**: 107 · **Open issues**: 85 · **Commits**: 451
+- **Releases**: 57 · **Merged PRs**: 118 · **Open PRs**: 17 · **Closed issues**: 107 · **Open issues**: 88 · **Commits**: 451
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 3 | 0 | 6 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 3 | 0 | 7 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 10 | 0 | 11 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 12 | 0 | 22 | 0 |
-| last720d | 2024-09-28 | 1 | 3 | 16 | 2 | 49 | 11 |
+| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 4 | 0 |
+| last60d | 2026-07-23 | 0 | 0 | 3 | 0 | 9 | 0 |
+| 90d | 2026-06-23 | 0 | 0 | 3 | 0 | 10 | 0 |
+| last180d | 2026-03-25 | 0 | 0 | 9 | 0 | 14 | 0 |
+| 360d | 2025-09-26 | 0 | 0 | 12 | 0 | 25 | 0 |
+| last720d | 2024-10-01 | 1 | 3 | 16 | 2 | 52 | 11 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for fclones lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:50:15Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:02:33Z._
