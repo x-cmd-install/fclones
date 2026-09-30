@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,951 · **Forks**: 123 · **Open issues**: 195 · **Contributors**: 16
+- **Stars**: 2,953 · **Forks**: 125 · **Open issues**: 196 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 118 · **Open PRs**: 17 · **Closed issues**: 107 · **Open issues**: 88 · **Commits**: 451
+- **Releases**: 57 · **Merged PRs**: 118 · **Open PRs**: 18 · **Closed issues**: 107 · **Open issues**: 89 · **Commits**: 451
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-07-31 | 0 | 0 | 2 | 0 | 8 | 0 |
-| 90d | 2026-07-01 | 0 | 0 | 3 | 0 | 9 | 0 |
-| last180d | 2026-04-02 | 0 | 0 | 9 | 0 | 14 | 0 |
-| 360d | 2025-10-04 | 0 | 0 | 12 | 0 | 25 | 0 |
-| last720d | 2024-10-09 | 1 | 3 | 16 | 2 | 52 | 11 |
+| 30d | 2026-08-31 | 0 | 0 | 1 | 0 | 4 | 0 |
+| last60d | 2026-08-01 | 0 | 0 | 3 | 0 | 9 | 0 |
+| 90d | 2026-07-02 | 0 | 0 | 4 | 0 | 10 | 0 |
+| last180d | 2026-04-03 | 0 | 0 | 10 | 0 | 15 | 0 |
+| 360d | 2025-10-05 | 0 | 0 | 13 | 0 | 26 | 0 |
+| last720d | 2024-10-10 | 1 | 3 | 17 | 2 | 53 | 11 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for fclones lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:55:39Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:38:19Z._
