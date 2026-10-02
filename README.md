@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 0 | 1 | 0 | 4 | 0 |
-| last60d | 2026-08-02 | 0 | 0 | 3 | 0 | 9 | 0 |
-| 90d | 2026-07-03 | 0 | 0 | 4 | 0 | 10 | 0 |
-| last180d | 2026-04-04 | 0 | 0 | 10 | 0 | 15 | 0 |
-| 360d | 2025-10-06 | 0 | 0 | 13 | 0 | 26 | 0 |
-| last720d | 2024-10-11 | 1 | 3 | 17 | 2 | 53 | 11 |
+| 30d | 2026-09-02 | 0 | 0 | 1 | 0 | 4 | 0 |
+| last60d | 2026-08-03 | 0 | 0 | 3 | 0 | 9 | 0 |
+| 90d | 2026-07-04 | 0 | 0 | 4 | 0 | 10 | 0 |
+| last180d | 2026-04-05 | 0 | 0 | 10 | 0 | 15 | 0 |
+| 360d | 2025-10-07 | 0 | 0 | 13 | 0 | 25 | 0 |
+| last720d | 2024-10-12 | 1 | 3 | 17 | 2 | 53 | 11 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for fclones lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T05:54:18Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:40:23Z._
