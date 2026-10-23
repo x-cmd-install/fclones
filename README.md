@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,976 · **Forks**: 125 · **Open issues**: 196 · **Contributors**: 16
+- **Stars**: 2,979 · **Forks**: 125 · **Open issues**: 196 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 1 | 0 | 4 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 4 | 0 | 10 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 10 | 0 | 13 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 13 | 0 | 21 | 0 |
-| last720d | 2024-11-01 | 1 | 2 | 17 | 2 | 52 | 11 |
+| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 1 | 0 | 4 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 4 | 0 | 10 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 10 | 0 | 13 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 13 | 0 | 21 | 0 |
+| last720d | 2024-11-02 | 1 | 2 | 17 | 2 | 52 | 11 |
 
 ## Release assets
 
@@ -75,6 +75,19 @@ Lowest-scoring checks:
 | [fclones-0.35.0-windows-x86_64.zip](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones-0.35.0-windows-x86_64.zip) | 1.9 MiB | `native/win/x64` |
 | [fclones_0.35.0-1_amd64.deb](https://github.com/pkolaczk/fclones/releases/download/v0.35.0/fclones_0.35.0-1_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
 
+## Distribution status
+
+Reported by **42** distros on [repology.org](https://repology.org/project/fclones). **33** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.35.0` | ✅ latest |
+| Homebrew | `0.35.0` | ✅ latest |
+| Nix unstable | `0.35.0` | ✅ latest |
+| Void | `0.35.0` | ✅ latest |
+| Alpine edge | `0.35.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.35.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for fclones lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fclones` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +97,4 @@ Install metadata for fclones lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:46:24Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:55:46Z._
