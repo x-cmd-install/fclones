@@ -1,15 +1,3 @@
-- repo: pkgsrc_current
-  srcname: sysutils/fclones
-  binname: fclones
-  visiblename: sysutils/fclones
-  version: 0.35.0
-  origversion: null
-  status: newest
-  summary: Efficient Duplicate File Finder
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - sysutils
 - repo: scoop
   subrepo: extras
   binname: fclones
@@ -17,94 +5,6 @@
   version: 0.35.0
   origversion: null
   status: newest
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: fclones
-  binname: fclones
-  visiblename: fclones
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Efficient duplicate file finder
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: pkgsrc_2026_3
-  srcname: sysutils/fclones
-  binname: fclones
-  visiblename: sysutils/fclones
-  version: 0.35.0
-  origversion: null
-  status: newest
-  summary: Efficient Duplicate File Finder
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - sysutils
-- repo: alpine_3_24
-  subrepo: community
-  srcname: fclones
-  binname: fclones-bash-completion
-  visiblename: fclones-bash-completion
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Bash completions for fclones
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: fclones
-  binname: fclones
-  visiblename: fclones
-  version: 0.34.0
-  origversion: 0.34.0-r0
-  status: outdated
-  summary: Efficient duplicate file finder
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: fclones
-  binname: fclones-fish-completion
-  visiblename: fclones-fish-completion
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Fish completions for fclones
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: fclones
-  visiblename: fclones
-  version: 0.35.0
-  origversion: null
-  status: newest
-  summary: Efficient Duplicate File Finder and Remover
-  maintainers:
-    - cyounkins@gmail.com
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: fclones
-  binname: fclones-zsh-completion
-  visiblename: fclones-zsh-completion
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Zsh completions for fclones
-  maintainers:
-    - michal@polanski.me
   licenses:
     - MIT
 - repo: alpine_3_17
@@ -147,6 +47,19 @@
   licenses:
     - MIT
 - repo: alpine_3_20
+  subrepo: community
+  srcname: fclones
+  binname: fclones
+  visiblename: fclones
+  version: 0.34.0
+  origversion: 0.34.0-r0
+  status: outdated
+  summary: Efficient duplicate file finder
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
   subrepo: community
   srcname: fclones
   binname: fclones
@@ -225,6 +138,58 @@
   licenses:
     - MIT
 - repo: alpine_3_24
+  subrepo: community
+  srcname: fclones
+  binname: fclones
+  visiblename: fclones
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Efficient duplicate file finder
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: fclones
+  binname: fclones-bash-completion
+  visiblename: fclones-bash-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Bash completions for fclones
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: fclones
+  binname: fclones-fish-completion
+  visiblename: fclones-fish-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Fish completions for fclones
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: fclones
+  binname: fclones-zsh-completion
+  visiblename: fclones-zsh-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Zsh completions for fclones
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
   subrepo: community
   srcname: fclones
   binname: fclones
@@ -409,6 +374,17 @@
     - figsoda@pm.me
   licenses:
     - MIT
+- repo: nix_stable_25_11
+  srcname: fclones
+  visiblename: fclones
+  version: 0.35.0
+  origversion: null
+  status: newest
+  summary: Efficient Duplicate File Finder and Remover
+  maintainers:
+    - cyounkins@gmail.com
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: fclones
   visiblename: fclones
@@ -476,6 +452,30 @@
   licenses:
     - MIT
 - repo: pkgsrc_2026_2
+  srcname: sysutils/fclones
+  binname: fclones
+  visiblename: sysutils/fclones
+  version: 0.35.0
+  origversion: null
+  status: newest
+  summary: Efficient Duplicate File Finder
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_2026_3
+  srcname: sysutils/fclones
+  binname: fclones
+  visiblename: sysutils/fclones
+  version: 0.35.0
+  origversion: null
+  status: newest
+  summary: Efficient Duplicate File Finder
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_current
   srcname: sysutils/fclones
   binname: fclones
   visiblename: sysutils/fclones
