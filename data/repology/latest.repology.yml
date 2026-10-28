@@ -1,13 +1,10 @@
-- repo: nix_stable_25_05
-  srcname: fclones
+- repo: scoop
+  subrepo: extras
+  binname: fclones
   visiblename: fclones
   version: 0.35.0
   origversion: null
   status: newest
-  summary: Efficient Duplicate File Finder and Remover
-  maintainers:
-    - cyounkins@gmail.com
-    - figsoda@pm.me
   licenses:
     - MIT
 - repo: alpine_3_17
@@ -365,6 +362,18 @@
     - figsoda@pm.me
   licenses:
     - MIT
+- repo: nix_stable_25_05
+  srcname: fclones
+  visiblename: fclones
+  version: 0.35.0
+  origversion: null
+  status: newest
+  summary: Efficient Duplicate File Finder and Remover
+  maintainers:
+    - cyounkins@gmail.com
+    - figsoda@pm.me
+  licenses:
+    - MIT
 - repo: nix_stable_25_11
   srcname: fclones
   visiblename: fclones
@@ -478,15 +487,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - sysutils
-- repo: scoop
-  subrepo: extras
-  binname: fclones
-  visiblename: fclones
-  version: 0.35.0
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: termux
   srcname: fclones
   binname: fclones
