@@ -102,136 +102,6 @@
     - michal@polanski.me
   licenses:
     - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: fclones
-  binname: fclones-fish-completion
-  visiblename: fclones-fish-completion
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Fish completions for fclones
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: fclones
-  binname: fclones-zsh-completion
-  visiblename: fclones-zsh-completion
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Zsh completions for fclones
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: fclones
-  binname: fclones
-  visiblename: fclones
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Efficient duplicate file finder
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: fclones
-  binname: fclones-bash-completion
-  visiblename: fclones-bash-completion
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Bash completions for fclones
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: fclones
-  binname: fclones-fish-completion
-  visiblename: fclones-fish-completion
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Fish completions for fclones
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: fclones
-  binname: fclones-zsh-completion
-  visiblename: fclones-zsh-completion
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Zsh completions for fclones
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: fclones
-  binname: fclones
-  visiblename: fclones
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Efficient duplicate file finder
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: fclones
-  binname: fclones-bash-completion
-  visiblename: fclones-bash-completion
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Bash completions for fclones
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: fclones
-  binname: fclones-fish-completion
-  visiblename: fclones-fish-completion
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Fish completions for fclones
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: fclones
-  binname: fclones-zsh-completion
-  visiblename: fclones-zsh-completion
-  version: 0.35.0
-  origversion: 0.35.0-r0
-  status: newest
-  summary: Zsh completions for fclones
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
 - repo: arch
   subrepo: extra
   srcname: fclones
@@ -241,6 +111,136 @@
   origversion: 0.35.0-2
   status: newest
   summary: Efficient Duplicate File Finder
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: fclones
+  binname: fclones-fish-completion
+  visiblename: fclones-fish-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Fish completions for fclones
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: fclones
+  binname: fclones-zsh-completion
+  visiblename: fclones-zsh-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Zsh completions for fclones
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: fclones
+  binname: fclones
+  visiblename: fclones
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Efficient duplicate file finder
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: fclones
+  binname: fclones-bash-completion
+  visiblename: fclones-bash-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Bash completions for fclones
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: fclones
+  binname: fclones-fish-completion
+  visiblename: fclones-fish-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Fish completions for fclones
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: fclones
+  binname: fclones-zsh-completion
+  visiblename: fclones-zsh-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Zsh completions for fclones
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: fclones
+  binname: fclones
+  visiblename: fclones
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Efficient duplicate file finder
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: fclones
+  binname: fclones-bash-completion
+  visiblename: fclones-bash-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Bash completions for fclones
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: fclones
+  binname: fclones-fish-completion
+  visiblename: fclones-fish-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Fish completions for fclones
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: fclones
+  binname: fclones-zsh-completion
+  visiblename: fclones-zsh-completion
+  version: 0.35.0
+  origversion: 0.35.0-r0
+  status: newest
+  summary: Zsh completions for fclones
+  maintainers:
+    - michal@polanski.me
   licenses:
     - MIT
 - repo: aur
