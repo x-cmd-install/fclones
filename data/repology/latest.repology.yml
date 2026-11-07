@@ -1,15 +1,14 @@
-- repo: pkgsrc_2026_2
-  srcname: sysutils/fclones
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: fclones
   binname: fclones
-  visiblename: sysutils/fclones
+  visiblename: fclones
   version: 0.35.0
-  origversion: null
+  origversion: 0.35.0-2
   status: newest
   summary: Efficient Duplicate File Finder
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - sysutils
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: fclones
@@ -127,18 +126,6 @@
     - michal@polanski.me
   licenses:
     - MIT
-- repo: pkgsrc_2026_3
-  srcname: sysutils/fclones
-  binname: fclones
-  visiblename: sysutils/fclones
-  version: 0.35.0
-  origversion: null
-  status: newest
-  summary: Efficient Duplicate File Finder
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - sysutils
 - repo: alpine_3_23
   subrepo: community
   srcname: fclones
@@ -320,7 +307,18 @@
     - MIT
   categories:
     - sysutils
-- repo: manjaro_unstable
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: fclones
+  binname: fclones
+  visiblename: fclones
+  version: 0.35.0
+  origversion: 0.35.0-2
+  status: newest
+  summary: Efficient Duplicate File Finder
+  licenses:
+    - MIT
+- repo: manjaro_testing
   subrepo: extra
   srcname: fclones
   binname: fclones
@@ -444,6 +442,30 @@
   summary: Efficient Duplicate File Finder
   licenses:
     - MIT
+- repo: pkgsrc_2026_2
+  srcname: sysutils/fclones
+  binname: fclones
+  visiblename: sysutils/fclones
+  version: 0.35.0
+  origversion: null
+  status: newest
+  summary: Efficient Duplicate File Finder
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_2026_3
+  srcname: sysutils/fclones
+  binname: fclones
+  visiblename: sysutils/fclones
+  version: 0.35.0
+  origversion: null
+  status: newest
+  summary: Efficient Duplicate File Finder
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
 - repo: pkgsrc_current
   srcname: sysutils/fclones
   binname: fclones
