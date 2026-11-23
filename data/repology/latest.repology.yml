@@ -1,3 +1,16 @@
+- repo: alpine_3_19
+  subrepo: community
+  srcname: fclones
+  binname: fclones
+  visiblename: fclones
+  version: 0.34.0
+  origversion: 0.34.0-r0
+  status: outdated
+  summary: Efficient duplicate file finder
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: fclones
@@ -18,19 +31,6 @@
   visiblename: fclones
   version: 0.30.0
   origversion: 0.30.0-r1
-  status: outdated
-  summary: Efficient duplicate file finder
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: fclones
-  binname: fclones
-  visiblename: fclones
-  version: 0.34.0
-  origversion: 0.34.0-r0
   status: outdated
   summary: Efficient duplicate file finder
   maintainers:
