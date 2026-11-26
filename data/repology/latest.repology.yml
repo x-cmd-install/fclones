@@ -63,17 +63,6 @@
     - michal@polanski.me
   licenses:
     - MIT
-- repo: nix_stable_25_11
-  srcname: fclones
-  visiblename: fclones
-  version: 0.35.0
-  origversion: null
-  status: newest
-  summary: Efficient Duplicate File Finder and Remover
-  maintainers:
-    - cyounkins@gmail.com
-  licenses:
-    - MIT
 - repo: alpine_3_22
   subrepo: community
   srcname: fclones
@@ -374,6 +363,17 @@
   maintainers:
     - cyounkins@gmail.com
     - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: fclones
+  visiblename: fclones
+  version: 0.35.0
+  origversion: null
+  status: newest
+  summary: Efficient Duplicate File Finder and Remover
+  maintainers:
+    - cyounkins@gmail.com
   licenses:
     - MIT
 - repo: nix_stable_26_05
